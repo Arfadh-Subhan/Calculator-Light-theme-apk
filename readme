@@ -1,0 +1,37 @@
+< ! -- Basic Calculator -- ! >
+
+Download link : https://www.mediafire.com/file/3o1luw1v7vcel2u/Calculator-L.apk/file
+or check in Light theme -> Apk file - light Theme folder
+
+A lightweight and completely ad-free calculator app built with Android Studio.
+
+Features
+➕ Addition
+➖ Subtraction
+✖️ Multiplication
+➗ Division
+🔢 Decimal calculations
+💯 Percentage calculations
+🎨 Clean light-themed interface
+🚫 No advertisements
+Screenshots
+
+Add screenshots here.
+
+Built With
+Android Studio
+Java/Kotlin
+XML Layouts
+Installation
+Download or clone the repository.
+Open the project in Android Studio.
+Build and run the application on your Android device or emulator.
+Purpose
+
+This project was created as a simple calculator application to practice Android app development and user interface design.
+
+License
+
+This project is available under the MIT License.
+
+Simple, fast, and distraction-free calculations. 📱✨
